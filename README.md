@@ -2,7 +2,7 @@
 
 # Relyo
 
-> Community membership platform. Member tiers, perks, identity, Relay rewards.
+> Discord and Reddit bots and servers, one directory. Relay credit boosts a listing to the top.
 
 ## Visit
 
